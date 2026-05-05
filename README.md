@@ -82,7 +82,7 @@ Kami sangat terbuka bagi para developer Indonesia yang ingin ikut berkontribusi 
 2. Buat **Branch** baru untuk fitur/perbaikan Anda (`git checkout -b fitur/nama-fitur`).
 3. **Commit** perubahan Anda dengan pesan yang jelas dan deskriptif.
 4. **Push** ke branch Anda (`git push origin fitur/nama-fitur`).
-5. Buat **Pull Request** ke repository utama.
+5. Buat **Pull Request** ke repository `development`.
 
 ### Panduan Singkat:
 - Pastikan kode mengikuti *coding standard* Kotlin.
