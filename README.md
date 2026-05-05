@@ -70,8 +70,6 @@ app/src/main/java/com/fgr/ppidbgncommunity/
 - [x] Redesign Home Screen Modern
 - [x] Implementasi Informasi Berkala (JSON Data)
 - [ ] Implementasi Form Permohonan Informasi
-- [ ] Fitur Push Notification untuk update berita
-- [ ] Integrasi API resmi (jika tersedia di masa depan)
 - [ ] Mode Offline untuk dokumen yang sudah diunduh
 
 ## 🤝 Kontribusi
