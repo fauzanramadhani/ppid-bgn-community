@@ -1,4 +1,5 @@
 # PPID BGN Community 🏛️
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/df867331-1fbe-46e0-ab5f-4ef881f447ed" />
 
 Aplikasi mobile alternatif untuk Pejabat Pengelola Informasi dan Dokumentasi (PPID) Badan Gizi Nasional yang dibangun secara native dengan semangat transparansi dan efisiensi informasi.
 
