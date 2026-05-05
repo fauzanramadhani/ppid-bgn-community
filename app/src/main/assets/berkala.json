@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Informasi Profil Badan Gizi Nasional",
+    "items": [
+      { "title": "Alamat Kantor Pusat BGN", "url": "https://google.com" },
+      { "title": "Profil Singkat Pimpinan BGN", "url": "https://google.com" },
+      { "title": "Tugas dan Fungsi BGN", "url": "https://google.com" },
+      { "title": "Ruang Lingkup (Kewenangan) BGN", "url": "https://google.com" },
+      { "title": "Struktur Organisasi BGN", "url": "https://google.com" }
+    ]
+  },
+  {
+    "title": "Program dan/atau Kegiatan",
+    "items": [
+      { "title": "Program Strategis Tahun 2026", "url": "https://google.com" },
+      { "title": "Program Tahun 2026", "url": "https://google.com" },
+      { "title": "Laporan Tahunan 2024", "url": "https://google.com" },
+      { "title": "Program Strategis Tahun 2025", "url": "https://google.com" },
+      { "title": "Agenda Kegiatan 2025", "url": "https://google.com" }
+    ]
+  },
+  {
+    "title": "Pelayanan Publik",
+    "items": [
+      { "title": "Dokumentasi & Informasi Hukum", "url": "https://google.com" },
+      { "title": "Pelayanan Informasi Publik", "url": "https://google.com" },
+      { "title": "Mitra Program MBG", "url": "https://google.com" },
+      { "title": "Pengaduan Publik", "url": "https://google.com" }
+    ]
+  },
+  {
+    "title": "Informasi Keuangan",
+    "items": [
+      { "title": "DIPA 2025", "url": "https://google.com" },
+      { "title": "RKA 2025", "url": "https://google.com" },
+      { "title": "Laporan Keuangan 2024", "url": "https://google.com" },
+      { "title": "DIPA 2026", "url": "https://google.com" },
+      { "title": "Realisasi Anggaran 2025", "url": "https://google.com" }
+    ]
+  },
+  {
+    "title": "Layanan Informasi Publik",
+    "items": [
+      { "title": "Laporan Triwulan 2026", "url": "https://google.com" },
+      { "title": "Permintaan Dikabulkan/Ditolak 2025", "url": "https://google.com" },
+      { "title": "Alasan Penolakan 2025", "url": "https://google.com" },
+      { "title": "Laporan 2024", "url": "https://google.com" },
+      { "title": "Jangka Waktu Permintaan", "url": "https://google.com" }
+    ]
+  },
+  {
+    "title": "Peraturan / Keputusan",
+    "items": [
+      { "title": "Standar Layanan Informasi", "url": "https://google.com" },
+      { "title": "Rancangan Peraturan", "url": "https://google.com" },
+      { "title": "UU KIP", "url": "https://google.com" },
+      { "title": "Daftar Peraturan", "url": "https://google.com" },
+      { "title": "SK PPID", "url": "https://google.com" }
+    ]
+  },
+  {
+    "title": "Prosedur Informasi Publik",
+    "items": [
+      { "title": "Cara Memperoleh Informasi", "url": "https://google.com" },
+      { "title": "Pengajuan Keberatan", "url": "https://google.com" }
+    ]
+  },
+  {
+    "title": "Pengaduan",
+    "items": [
+      { "title": "Pengaduan oleh BGN", "url": "https://google.com" },
+      { "title": "Pengaduan oleh Pihak Ketiga", "url": "https://google.com" }
+    ]
+  },
+  {
+    "title": "SOP Layanan Informasi",
+    "items": [
+      { "title": "SOP Permintaan Informasi", "url": "https://google.com" },
+      { "title": "SOP Pengumuman", "url": "https://google.com" },
+      { "title": "SOP Disabilitas", "url": "https://google.com" },
+      { "title": "SOP Keberatan", "url": "https://google.com" }
+    ]
+  }
+]
