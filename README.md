@@ -94,4 +94,4 @@ Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) 
 
 ---
 
-Mari berkolaborasi untuk akses informasi publik yang lebih baik! Jika Anda memiliki saran atau pertanyaan, jangan ragu untuk membuka *Issue* atau menghubungi kami. 🚀
+Mari berkolaborasi untuk akses informasi publik yang lebih baik! Jika Anda memiliki saran atau pertanyaan, jangan ragu untuk membuka *Issue* atau menghubungi saya melalui email di [fauzan.g.ramadhani@gmail.com](mailto:fauzan.g.ramadhani@gmail.com). 🚀
